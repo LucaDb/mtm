@@ -1,6 +1,6 @@
 {
   "name": "mtm-mixins",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Sass mixins and variables for Momentum.",
   "main": "_index.scss",
   "repository": {
@@ -9,10 +9,6 @@
   },
   "author": "akqa/ferrari",
   "license": "Apache-2.0",
-  "dependencies": {
-  },
-  "devDependencies": {
-  },
   "peerDependencies": {
     "node-sass": "^4.7.2"
   }
